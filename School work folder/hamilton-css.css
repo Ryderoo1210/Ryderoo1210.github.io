@@ -1,0 +1,25 @@
+p#Dscript {
+    border: solid black 10px;
+    height: 250px;
+    margin-left: 100px;
+    
+}
+p#Dscript2{
+    border:  solid black 10px;
+    height: 320px;
+    margin-left: 200px;
+}
+img#ham {
+   
+   height: 450px;
+   margin-left: 250px;
+   
+}
+h2#head2{
+    text-align: center;
+    margin-left: 200px;
+}
+h2#head3{
+    text-align: center;
+    margin-left: 100px;
+}
