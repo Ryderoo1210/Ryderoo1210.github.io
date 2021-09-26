@@ -1,12 +1,12 @@
 p#Dscript {
     border: solid black 10px;
-    height: 250px;
+    height: 280px;
     margin-left: 100px;
     
 }
 p#Dscript2{
     border:  solid black 10px;
-    height: 320px;
+    height: 450px;
     margin-left: 200px;
 }
 img#ham {
@@ -22,4 +22,19 @@ h2#head2{
 h2#head3{
     text-align: center;
     margin-left: 100px;
+}
+p#field{
+    border: solid black 10px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 100px;s
+}
+h2#head4{
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+p#cite{
+    float: right;
+    margin-right: 50px;
 }
